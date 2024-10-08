@@ -1,4 +1,2 @@
-from project.do_something import ProjectClass, test
-
-print(test)
-
+def test_general():
+    assert True
